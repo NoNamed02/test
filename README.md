@@ -1,6 +1,5 @@
 # 문제 이해하기
-
-#INPUT
+##INPUT
   -배열(int(정수)) nums
   -int값(정수) target
 
