@@ -1,19 +1,19 @@
-## 문제 이해하기
+# 문제 이해하기
 
-###INPUT
+##INPUT
   -배열(int(정수)) nums
   -int값(정수) target
 
-### 설명
+## 설명
   배열 nums와 int값 target을 받았을 시, 배열 nums의 값 중 2택시 합이 target의 값과 같아질시 그 2택의 2개의 정수를 반환함
   (같은 값 2번 사용 불가능)
 
-### 설명
+## 설명
   1. 배열, 정수값을 받음
   2. 배열의 값 중 2택 시 입력한 정수값이 되는지 확인
   3. 조건 통과시 그때의 배열의 값 2개를 반환
   
-## 문제 풀이  
+# 문제 풀이  
 #include <iostream>
 #include <vector> // vector 배열 헤더 추가
 using namespace std;
