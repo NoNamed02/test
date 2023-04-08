@@ -13,7 +13,7 @@
   2. 배열의 값 중 2택 시 입력한 정수값이 되는지 확인
   3. 조건 통과시 그때의 배열의 값 2개를 반환
   
-  
+## 문제 풀이  
 #include <iostream>
 #include <vector> // vector 배열 헤더 추가
 using namespace std;
