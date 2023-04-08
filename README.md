@@ -13,12 +13,12 @@
   3. 조건 통과시 그때의 배열의 값 2개를 반환
   
 # 문제 풀이  
+```C++
 #include <iostream>
 #include <vector> // vector 배열 헤더 추가
 using namespace std;
 // 참고 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=jydev&logNo=220687965799
 
-```C++
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) { // 1번 입력 = 베열, 2번 입력 = 기준값
