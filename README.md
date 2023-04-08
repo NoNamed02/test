@@ -18,7 +18,7 @@
 using namespace std;
 // 참고 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=jydev&logNo=220687965799
 
-**C++
+```C++
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) { // 1번 입력 = 베열, 2번 입력 = 기준값
@@ -31,7 +31,7 @@ public:
         return {}; // ???
     }
 };
-**
+```
 
 2중 for문을 사용한 계단식 조건 해결법 사용
 이를 활용하여 조건에 맞는 값 2개를 반환.
