@@ -1,7 +1,7 @@
 # 문제 이해하기
 ## INPUT
-  배열(int(정수)) nums
-  int값(정수) target
+  **배열(int(정수)) nums**
+  **int값(정수) target**
 
 ## 설명
   배열 nums와 int값 target을 받았을 시, 배열 nums의 값 중 2택시 합이 target의 값과 같아질시 그 2택의 2개의 정수를 반환함
