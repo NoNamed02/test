@@ -18,7 +18,7 @@
 using namespace std;
 // 참고 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=jydev&logNo=220687965799
 
-**c++
+**C++
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) { // 1번 입력 = 베열, 2번 입력 = 기준값
